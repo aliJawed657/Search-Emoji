@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    outline: none;
+    padding: 0px;
+}
+
+body {
+    font-family: sans-serif;
+    background: rgb(21, 62, 226);
+}
+
+h2 {
+    background-color: rgb(4, 22, 37);
+    color: white;
+    margin: 20px 10px;
+    padding: 20px 30px;
+}
+
+.title {
+    color: white;
+    margin: auto;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+input {
+    width: 400px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    padding: 20px 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: center;
+    margin: 20px auto;
+    margin-bottom: 25px;
+}
+
+.bg {
+    width: 80%;
+    margin: auto;
+}
